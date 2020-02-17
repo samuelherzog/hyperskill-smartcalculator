@@ -1,0 +1,20 @@
+.gradle
+**/build/
+!gradle/wrapper/gradle-wrapper.jar
+**/out/
+*.DS_Store
+**/tmp/*
+.kotlintest/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+/out/
+
+### Hyperskill ###
+Problems*
+*.yaml
+*.html
+
